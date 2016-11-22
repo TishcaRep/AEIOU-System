@@ -1,1 +1,2 @@
 c:\users\tishca\documents\visual studio 2015\Projects\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe.config
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe.config

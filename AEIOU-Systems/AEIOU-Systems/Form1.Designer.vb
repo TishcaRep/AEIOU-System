@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class frmlogin
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -22,9 +22,80 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.btnalumno = New System.Windows.Forms.Button()
+        Me.btndocente = New System.Windows.Forms.Button()
+        Me.btninvitado = New System.Windows.Forms.Button()
+        Me.btnsalir = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Bradley Hand ITC", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(77, 61)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(380, 60)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "AEIOU SYSTEM"
+        '
+        'btnalumno
+        '
+        Me.btnalumno.Location = New System.Drawing.Point(87, 199)
+        Me.btnalumno.Name = "btnalumno"
+        Me.btnalumno.Size = New System.Drawing.Size(100, 30)
+        Me.btnalumno.TabIndex = 1
+        Me.btnalumno.Text = "Alumno"
+        Me.btnalumno.UseVisualStyleBackColor = True
+        '
+        'btndocente
+        '
+        Me.btndocente.Location = New System.Drawing.Point(357, 199)
+        Me.btndocente.Name = "btndocente"
+        Me.btndocente.Size = New System.Drawing.Size(100, 30)
+        Me.btndocente.TabIndex = 3
+        Me.btndocente.Text = "Docente"
+        Me.btndocente.UseVisualStyleBackColor = True
+        '
+        'btninvitado
+        '
+        Me.btninvitado.Location = New System.Drawing.Point(225, 199)
+        Me.btninvitado.Name = "btninvitado"
+        Me.btninvitado.Size = New System.Drawing.Size(100, 30)
+        Me.btninvitado.TabIndex = 4
+        Me.btninvitado.Text = "Invitado"
+        Me.btninvitado.UseVisualStyleBackColor = True
+        '
+        'btnsalir
+        '
+        Me.btnsalir.Location = New System.Drawing.Point(225, 275)
+        Me.btnsalir.Name = "btnsalir"
+        Me.btnsalir.Size = New System.Drawing.Size(100, 30)
+        Me.btnsalir.TabIndex = 5
+        Me.btnsalir.Text = "Salir"
+        Me.btnsalir.UseVisualStyleBackColor = True
+        '
+        'frmlogin
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.Text = "Form1"
+        Me.ClientSize = New System.Drawing.Size(533, 360)
+        Me.Controls.Add(Me.btnsalir)
+        Me.Controls.Add(Me.btninvitado)
+        Me.Controls.Add(Me.btndocente)
+        Me.Controls.Add(Me.btnalumno)
+        Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Name = "frmlogin"
+        Me.Text = "Login"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
     End Sub
 
+    Friend WithEvents Label1 As Label
+    Friend WithEvents btnalumno As Button
+    Friend WithEvents btndocente As Button
+    Friend WithEvents btninvitado As Button
+    Friend WithEvents btnsalir As Button
 End Class
