@@ -16,3 +16,7 @@ C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.vbp
 C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.exe
 C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.xml
 C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.pdb
+C:\Users\Tishca\Desktop\AEIOU\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe.config
+C:\Users\Tishca\Desktop\AEIOU\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.exe
+C:\Users\Tishca\Desktop\AEIOU\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.xml
+C:\Users\Tishca\Desktop\AEIOU\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.pdb
