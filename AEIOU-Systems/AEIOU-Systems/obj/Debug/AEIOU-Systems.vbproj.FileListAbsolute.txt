@@ -1,2 +1,18 @@
 c:\users\tishca\documents\visual studio 2015\Projects\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe.config
 C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe.config
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.exe
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.pdb
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\bin\Debug\AEIOU-Systems.xml
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.vbprojResolveAssemblyReference.cache
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.frmlogin.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.frmalumno.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.frmdocente.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.frmregistro.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.frmsoporte.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.Form6.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.Form7.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU_Systems.Resources.resources
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.vbproj.GenerateResource.Cache
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.exe
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.xml
+C:\Users\HP\AEIOU-System\AEIOU-Systems\AEIOU-Systems\obj\Debug\AEIOU-Systems.pdb

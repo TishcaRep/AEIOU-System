@@ -33,7 +33,7 @@ Partial Class frmlogin
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Bradley Hand ITC", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(77, 61)
+        Me.Label1.Location = New System.Drawing.Point(76, 52)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(380, 60)
         Me.Label1.TabIndex = 0
@@ -41,7 +41,7 @@ Partial Class frmlogin
         '
         'btnalumno
         '
-        Me.btnalumno.Location = New System.Drawing.Point(87, 199)
+        Me.btnalumno.Location = New System.Drawing.Point(86, 190)
         Me.btnalumno.Name = "btnalumno"
         Me.btnalumno.Size = New System.Drawing.Size(100, 30)
         Me.btnalumno.TabIndex = 1
@@ -50,7 +50,7 @@ Partial Class frmlogin
         '
         'btndocente
         '
-        Me.btndocente.Location = New System.Drawing.Point(357, 199)
+        Me.btndocente.Location = New System.Drawing.Point(356, 190)
         Me.btndocente.Name = "btndocente"
         Me.btndocente.Size = New System.Drawing.Size(100, 30)
         Me.btndocente.TabIndex = 3
@@ -59,7 +59,7 @@ Partial Class frmlogin
         '
         'btninvitado
         '
-        Me.btninvitado.Location = New System.Drawing.Point(225, 199)
+        Me.btninvitado.Location = New System.Drawing.Point(224, 190)
         Me.btninvitado.Name = "btninvitado"
         Me.btninvitado.Size = New System.Drawing.Size(100, 30)
         Me.btninvitado.TabIndex = 4
@@ -68,7 +68,7 @@ Partial Class frmlogin
         '
         'btnsalir
         '
-        Me.btnsalir.Location = New System.Drawing.Point(225, 275)
+        Me.btnsalir.Location = New System.Drawing.Point(224, 266)
         Me.btnsalir.Name = "btnsalir"
         Me.btnsalir.Size = New System.Drawing.Size(100, 30)
         Me.btnsalir.TabIndex = 5
@@ -79,7 +79,7 @@ Partial Class frmlogin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(533, 360)
+        Me.ClientSize = New System.Drawing.Size(535, 345)
         Me.Controls.Add(Me.btnsalir)
         Me.Controls.Add(Me.btninvitado)
         Me.Controls.Add(Me.btndocente)
